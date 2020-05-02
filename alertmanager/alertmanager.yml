@@ -17,7 +17,7 @@ receivers:
 
 - name: email-me
   email_configs:
-  - to: vasulrgdevera@gmail.com
+  - to: tchynetsky@gmail.com
     require_tls: false
     from: team3crashcourse@gmail.com
     smarthost: smtp.gmail.com:465
