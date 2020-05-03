@@ -17,13 +17,13 @@ receivers:
 
 - name: email-me
   email_configs:
-  - to: vasulrgdevera@gmail.com
+  - to: tchynetsky@gmail.com
     require_tls: false
-    from: team3crashcourse@gmail.com
+    from: tchynetsky@gmail.com
     smarthost: smtp.gmail.com:465
-    auth_username: "team3crashcourse"
-    auth_identity: "team3crashcourse"
-    auth_password: "prometheus22"
+    auth_username: "Naker22"
+    auth_identity: "Steve"
+    auth_password: "agelis06"
 
 - name: "null"
 - name: regular_alert_receiver
